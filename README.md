@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently working as a Junior C++/Qt/QML developer</br>
+I'm currently working as a C++/Qt/QML developer</br>
 </br>
 Looking for beginner-friendly Open Source Projects to contribute </br>
 </br>
